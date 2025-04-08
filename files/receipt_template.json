@@ -1,0 +1,49 @@
+{
+    "data": {
+        "type": "receipt",
+        "year": 2025,
+        "numeration": "Se22",
+        "visible_subject": "",
+        "amount_net": -1,
+        "amount_vat": 0,
+        "amount_gross": -1,
+        "notes": "",
+        "entity": {
+            "name": "",
+            "entity_type": "client"
+        },
+        "date": "",
+        "currency": {
+            "id": "EUR",
+            "exchange_rate": "1.00000",
+            "symbol": "€"
+        },
+        "items_list": [
+            {
+                "name": "",
+                "qty": 1,
+                "net_price": -1,
+                "gross_price": -1,
+                "amount_net": -1,
+                "vat": {
+                    "id": 6,
+                    "value": 0
+                },
+                "description": ""
+            }
+        ],
+        "payments_list": [
+            {
+                "amount": -1,
+                "due_date": "",
+                "paid_date": "",
+                "status": "paid",
+                "payment_account": {
+                    "id": 886715,
+                    "name": "PoliTO",
+                    "virtual": false
+                }
+            }
+        ]
+    }
+}
